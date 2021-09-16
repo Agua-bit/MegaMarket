@@ -1,0 +1,9 @@
+Historia de usuario: HU_004
+
+Dado que tengo instalado la aplicación Git en la máquina local
+
+Cuando requiera enlazar un directorio con un repositorio en GitHub
+
+Entonces podré subir artefactos actualizados al repositorio en GitHub
+
+@Tatiana
