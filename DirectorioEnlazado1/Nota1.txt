@@ -1,0 +1,4 @@
+Directorio enlazado numero 1.
+Hecho para cumplir la tarea HU__004.
+
+--Andres Guarin
