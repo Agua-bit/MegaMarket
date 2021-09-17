@@ -1,2 +1,4 @@
 Nuevo commit para la rama main 
 
+Agregar configuraciones locales 
+
