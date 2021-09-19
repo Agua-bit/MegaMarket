@@ -3,9 +3,8 @@ Sprint 1
 Nombre del equipo:
 	MegaMarket
 
-
 Grupo de Trabajo:
-1. Juan Barrios Moreno
+1. Juan Sebastian Barrios Moreno
 	Desarrollador 
 	HU_001
 	HU_004
