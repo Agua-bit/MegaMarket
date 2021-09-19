@@ -1,0 +1,28 @@
+Sprint 1
+
+Nombre del equipo:
+	MegaMarket
+
+
+Grupo de Trabajo:
+1. Juan Barrios Moreno
+	Desarrollador 
+	HU_001
+	HU_004
+
+2. Stefano Rojas Bloise
+	Product Owner
+	HU_004
+
+3.Nilson Villabona Toloza
+	Analista
+	HU_002
+ 
+4. Andrés Guarin
+	Administrador de BD
+	HU_003
+
+5.Tatiana Espinosa
+	Scrum master
+	HU_002
+	HU_004
