@@ -1,0 +1,13 @@
+label {
+    font-size: larger; font-family: monospace; margin: 40%; border-style: inset; border-spacing: 1cm; border-color:black;
+}
+input {margin: 0.2%; border: 0.5mm; visibility: visible; position: relative; color: black; border-style: solid; vertical-align: middle;
+
+}
+p1, p2, p3 {font-style: normal; font-size: xx-small; margin: 40%; position: absolute; bottom: -65%;
+}
+p2 {font-style: normal; font-size: xx-small; margin: 40%; position: absolute; bottom: -70%;
+}
+p3{font-style: normal; font-size: xx-small; margin: 40%; position: absolute; bottom: -75%;
+
+}
