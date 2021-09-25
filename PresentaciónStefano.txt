@@ -1,0 +1,6 @@
+Nombre: Stefano ROjas
+Edad: 28 año
+Ingeniero industrial que trabaja en innovación. 
+
+Sprint1: Product Owner
+Sprint2: DevOPS
