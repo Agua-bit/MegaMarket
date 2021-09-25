@@ -1,0 +1,128 @@
+body {
+    background-color: whitesmoke;
+}
+p {
+    font-style: normal;
+    font-size: medium;
+    margin: 40%;
+    position: absolute;
+    color: steelblue;
+    bottom: -60%;
+}
+a {
+    font-style: oblique;
+    font-size: small;
+    margin: 40%;
+    position: absolute;
+    color: steelblue;
+    bottom: -77%;
+}
+a:link {
+    font-weight: lighter;
+    font-size: small;
+    font-style: italic;
+    color: steelblue;
+    bottom: -80%;
+    
+}
+a:active {
+    color: blueviolet;
+}
+a:visited{
+    color: coral;
+}
+a:hover{
+    color: magenta;
+    border-bottom: 1px solid;
+}
+table{
+    border-style: outset;
+    border-color: gray;
+    border: 2px solid crimson;
+    align-content: center;
+}
+tr,td, th {
+    border-style: outset;
+    border-color: black;
+    border: 2px solid blue;
+    text-align: center;
+    align-content: center;
+}
+.Login{
+    max-width: 600px;
+    height: 80px;
+    margin: 0px 0px 30px 0px;
+    margin-top: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;
+}
+.Botones {
+    max-width: 600px;
+    height: 50px;
+    margin-right: auto;
+    margin-left: 600px;
+    align-items: flex-end;
+    justify-content: end;
+    border-style: none;
+}
+.General {
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    vertical-align: middle;
+}
+#Boton1 {
+    font-style: oblique;
+    size: 50px;
+    font-size: large;
+    display: table-cell;
+    vertical-align: middle;
+    border-style: none;
+    background-color: whitesmoke;
+    margin-left: auto;
+    margin-right: auto;
+}   
+#Boton2 {
+    font-style: oblique;
+    size: 50px;
+    font-size: large;
+    display: table-cell;
+    vertical-align: middle;
+    justify-content: end;
+    border-style: none;
+    background-color: whitesmoke;
+}
+#Boton3 {
+    font-style: oblique;
+    size: 50px;
+    font-size: xx-large;
+    background-color: whitesmoke;
+}
+#Label1 {
+    font-size: large;
+    color: black;
+    font-style: oblique;
+    size: 10px;
+    margin-left: 100px;
+}
+#Label2 {
+    font-size: large;
+    color: black;
+    font-style: oblique;
+    size: 10px;
+    margin-left: 77px;
+}
+input {
+    border: 2px;
+    border-style: inset;
+    background-color: whitesmoke;
+    font-style: oblique;
+    color:black;
+}
+form {
+    position: fixed;
+    text-align: justify;
+}
