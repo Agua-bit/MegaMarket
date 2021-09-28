@@ -121,8 +121,48 @@ input {
     background-color: whitesmoke;
     font-style: oblique;
     color:black;
+    font-size: small;
 }
 form {
     position: fixed;
     text-align: justify;
+}
+.Vendedores{
+    width: 550px;
+    height: 260px;
+    justify-content: center;
+    margin-left: 50px;
+    margin-right: auto;
+    align-items: center;
+    vertical-align: middle;
+    border-style: solid;
+    border-color: lightgray;
+}
+.Titulos_Menus{
+    font-size: larger;
+    margin-left: 40%;
+    color: darkred;
+}
+.labels_vendedor {
+    color: lightseagreen;
+    font-size: larger;
+    margin-left: 20px;
+    font-style: oblique;
+}
+.Input_Vendedores {
+    margin-left: 10px;
+    width: 300px;
+    border-style: none;
+}
+.label_Cargo {
+    color: lightseagreen;
+    font-size: large;
+    margin-left: 20px;
+    font-style: oblique;
+    padding-left: 10px;
+}
+.labels_Cargo{
+    font-size: medium;
+    margin-left: 0px;
+    color: gray;
 }
