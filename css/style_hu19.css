@@ -34,7 +34,35 @@ body {
     margin-top: -20px;
 }
 
-.user {
+.dropdown{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    background-color:#E73565;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    outline: none;
+    box-sizing: border-box;
+    border: 2px solid darkgrey;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 10px 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.select {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color:darkgray;
+    padding-top: 15px;
+    margin-top: -25px;
+}
+
+.status {
     width: 75%;
     color:darkgrey;
     font-weight: 700;
@@ -59,7 +87,7 @@ form.formulario {
     padding-top: 10px;
 }
 
-.password {
+.role {
     width: 75%;
     color:darkgrey;
     font-weight: 700;
@@ -80,7 +108,7 @@ form.formulario {
     font-family: 'Ubuntu', sans-serif;
 }
 
-.submit {
+.update {
     cursor: pointer;
     border-radius: 5em;
     color: white;
@@ -96,35 +124,10 @@ form.formulario {
     box-shadow: 0 0 20px 1px gray;
 }
 
-.button {
-    cursor: pointer;
-    border-radius: 5em;
-    color: white;
-    background: linear-gradient(to right, #3D64AC, blue);
-    border: 0;
-    display:block;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    margin-left: 25px;
-    margin-right: 25px;
-    text-align: center;
-    padding-bottom: 20px;
-    padding-top: 20px;
-    font-family: 'Ubuntu', sans-serif;
-    font-size: 15px;
-    box-shadow: 0 0 20px 1px gray;
-}
-
-.forgot {
-    margin-top: 20px;
-    margin-bottom: 20px;
-    color:darkgray;
-    padding-top: 15px;
-}
-
 .credit {
     color:darkgray;
     padding-right: 20px;
+    padding-top: 20px;
     font-size: 9px;
 }
 
